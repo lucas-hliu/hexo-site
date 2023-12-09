@@ -1,3 +1,9 @@
+---
+title: python tutorial
+date: 2023-12-09 19:11:03
+tags: [python, linux]
+---
+
 ### 一、变量
 
 #### 变量的类型
